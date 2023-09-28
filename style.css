@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+  }
+
+body {
+    background-color: black;
+}
+#title, .subtitle {
+    color: yellow;
+    padding: 5px;
+    margin: 10px;
+
+}
+.post_title{
+    color: #c50808;
+    font-size: 16px;
+    font-style: bold;
+    padding: 10px;
+
+}
+
+.post {
+    background-color: antiquewhite;
+    padding: 10px;
+    border: 3px solid rgb(247, 243, 238);
+    margin: 10px;
+
+}
+
+.links_contato{
+    margin: 20px;
+}
+
+
+a:link {
+    color: rgb(15, 15, 228);
+    
+
+   }
+   
+a:hover {
+    color: #F00;
+    
+   }
